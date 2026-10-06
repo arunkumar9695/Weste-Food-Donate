@@ -1,6 +1,6 @@
 # Food waste management system
 <!-- <img src="img/coverimage.jpeg"> -->
-<p>  The basic concept of this project,  Food Waste Management, is to collect the excess/leftover food from donors such as hotels, restaurants, marriage halls, etc., and distribute it to  the  needy people .</p>
+<p>  The basic concept of this project,  Food Waste Management, is to collect the excess/leftover food from donors such as hotels, restaurants, marriage halls, etc., and distribute it to needy people .</p>
 <h2>Tools and Technologies</h2> 
 <ul>
  <li>Frontend : HTML, CSS,  JavaScript</li>
@@ -17,9 +17,9 @@
     <p>The User module is designed for people who wish to donate their excess or leftover food to help reduce food wastage. The User module is responsible for accepting food donations from users who have excess food, such as marriage halls, restaurants, or individuals. The module allows users to register, log in, and donate food. Users can select the type and quantity of food they want to donate, and the system will match their donation to the nearest people in need or organizations. The module also allows users to view their donations. The User module provides the information to the Admin module for further processing.
    </p><br>
    <p>
-      The Administrator module is for trusts, NGOs, and charities that are registered on the platform. The Admin module is designed for system administrators who manage the food distribution process. The Admin module receives information about the food donation from the User module and lists it for NGOs and charities to choose from. Admins can view and manage the list of donations received, including the type and quantity of food donated. NGOs and charities can select the food donation they need from the Admin module and request a pickup to the Delivery module. The Admin module is responsible for tracking the requests and keeping track of which organizations have taken which donations
+      The Administrator module is for trusts, NGOs, and charities that are registered on the platform. The Admin module is designed for system administrators who manage the food distribution process. The Admin module receives information about the food donation from the User module and lists it for NGOs and charities to choose from. Admins can view and manage the list of donations received, including the type and quantity of food donated. NGOs and charities can select the food donation they need from the Admin module and request a pickup in the Delivery module. The Admin module is responsible for tracking the requests and keeping track of which organizations have taken which donations
    </p><br>
-    <p>The Delivery Person module is for individuals who wish to participate in the food donation process by providing pickup and delivery services. Delivery personnel can register themselves on the platform. The Delivery Person module provides pickup and drop-off services for NGOs and charities that have requested a food donation. The Delivery Person module shows the pickup location and drop location of the food donation.
+    <p>The Delivery Person module is for individuals who wish to participate in the food donation process by providing pickup and delivery services. Delivery personnel can register themselves on the platform. The Delivery Person module provides pickup and drop-off services for NGOs and charities that have requested a food donation. The Delivery Person module shows the pickup location and drop-off location of the food donation.
     </p><br>
     <p>Overall, the Food Waste Management System is designed to efficiently manage excess food and ensure that it is distributed to those in need. The User module accepts food donations, the Admin module lists them for NGOs and charities to choose from, and the Delivery Person module provides pickup and drop-off services. This system benefits the community by reducing food waste and helping those in need
     </p>
